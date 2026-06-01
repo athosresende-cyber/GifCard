@@ -3,11 +3,17 @@
  padding: 0;
 }
 .cabecalho{
+  background-color: aqua;
     display: flex;
      justify-content: space-between;
      align-items: center;
 padding: 15px 25px;
 }
+h1{
+  color: blueviolet;
+  text-decoration: none;
+}
+
     body { 
   display: flex; 
   flex-direction: column; 
