@@ -2,8 +2,7 @@
  margin: 0;
  padding: 0;
 }
-.cabecalho{
-  background-color: aqua;
+.cabecalho{background-color: #00ffff;
     display: flex;
      justify-content: space-between;
      align-items: center;
